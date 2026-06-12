@@ -1,6 +1,6 @@
 # VoxVarta AI 📰
 
-An AI-powered personalized news assistant built using Streamlit.
+VoxVarta AI is a smart, voice-enabled AI-powered news intelligence application designed to help users consume news faster, smarter, and more efficiently. It leverages natural language processing to deliver AI-generated insights, including question answering on news articles, sentiment analysis for mood detection, personalized news feeds, and credibility scoring of news sources to ensure reliable and trustworthy information consumption.
 
 ## Features
 - AI news summarization
