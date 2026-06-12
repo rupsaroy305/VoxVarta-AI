@@ -1,6 +1,6 @@
 # VoxVarta AI 📰
 
-VoxVarta AI is a smart, voice-enabled AI-powered news intelligence application designed to help users consume news faster, smarter, and more efficiently. It leverages natural language processing to deliver AI-generated insights, including question answering on news articles, sentiment analysis for mood detection, personalized news feeds, and credibility scoring of news sources to ensure reliable and trustworthy information consumption.
+VoxVarta AI is a voice-enabled, AI-driven news intelligence system designed for efficient and context-aware consumption of real-time news data. The platform leverages natural language processing (NLP) and machine learning (ML) techniques to perform abstractive text summarization, extractive question answering over news articles, sentiment polarity classification for affective analysis, and personalized recommendation-based news feed generation. It also incorporates a credibility scoring module to assess source reliability using metadata and heuristic signals. Additionally, the system integrates a text-to-speech (TTS) pipeline to convert generated summaries into natural speech, enabling hands-free, voice-assisted news consumption.
 
 ## Features
 - AI news summarization
