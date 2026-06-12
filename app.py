@@ -39,8 +39,8 @@ if not API_KEY:
 @st.cache_resource
 def load_summarizer():
     return pipeline(
-        "summarization",
-        model="facebook/bart-large-cnn"
+        "text2text-generation",
+        model="google/flan-t5-base"
     )
 
 
