@@ -19,4 +19,4 @@ An AI-powered personalized news assistant built using Streamlit.
 - TextBlob
 
 ## Live App
-(Will be added after deployment)
+https://voxvarta-ai.streamlit.app/
